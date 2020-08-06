@@ -1,0 +1,7 @@
+# Note: we assume alphaCO = 1, in which case MH2 = L'CO10
+# upper limits are 3sigma and assume a 500km/s line width
+# Source	Mstar	reff_F160W	SFR	L'CO10	dL'CO10	FWHM_CO10	dFWHM_CO10
+# ---	Msun	kpc	Msun/yr	Kkm/spc^2	Kkm/spc^2	km/s	km/s
+GOODSN774	1.0e11	1.0	150	0.	1.4e10	nan	nan
+COSMOS22995	1.2e11	1.1	190	0.	1.3e10	nan	nan
+COSMOS27289	1.3e11	2.3	400	1.3e10	0.3e10	60	18
