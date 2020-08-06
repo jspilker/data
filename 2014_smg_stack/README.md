@@ -1,6 +1,10 @@
 Spilker et al. (2014), ApJ, 785, 149
 ====================================
 
+[ADS](https://ui.adsabs.harvard.edu/abs/2014ApJ...785..149S/abstract) | [arXiv](https://arxiv.org/abs/1403.1667)
+
+![Stacked Spectrum](Fig2_stackedspectrum.png)
+
 In this paper (my first!) we presented the stacked sub/mm spectrum of 22 high-redshift
 dusty galaxies based on early (cycle 0) ALMA 3mm data. Aside from the usual very bright
 CO and [CI] lines, we also detected or placed constraints on dozens of lines from a 
