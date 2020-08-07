@@ -3,9 +3,10 @@ Spilker et al. (2018), ApJ, 860, 103
 
 [ADS](https://ui.adsabs.harvard.edu/abs/2018ApJ...860..103S/abstract) | [arXiv](https://arxiv.org/abs/1805.02667)
 
-![Gas fractions and depletion times](Fig45_fgas_tdep.png)
+![Gas fractions and depletion times](Fig7_fgas_tdep_scaling.png)
 
-
+Here I provide the CO(2-1) spectra for the LEGA-C galaxies in our sample, as well as the contents
+of Table 2, which contains the summary of the results.
 
 
 Citation
