@@ -1,0 +1,14 @@
+# Upper limits are 3sigma (nondetections have value=0, uncertainty=3sigma limit)
+# MH2 assumes r_21 = 0.8, alphaCO = 4.4. Upper limits use an 800km/s wide channel.
+# "stack" includes only individually-undetected sources
+# ID	zspec	Mstar	SFR	S_CO21	dS_CO21	MH2	dMH2
+# --	--	Msun	Msun/yr	Jykms	Jykms	Msun	Msun
+74512	0.7330	9.1e10	6.3	0.157	0.041	6.55e9	1.71e9
+110509	0.6671	1.0e11	6.5	0.239	0.037	8.24e9	1.28e9
+130284	0.6017	9.1e10	6.8	0.358	0.045	1.00e10	1.26e9
+132776	0.7500	9.5e10	7.9	0.327	0.072	1.43e10	3.15e9
+138718	0.6558	1.3e11	5.6	0.	0.21	0.	6.89e9
+169076	0.6772	3.1e11	5.1	0.	0.23	0.	8.21e9
+210210	0.6544	2.4e11	3.6	0.	0.21	0.	6.96e9
+211409	0.7140	1.3e11	6.6	0.	0.13	0.	5.22e9
+Stack	0.6754	2.0e11	5.3	0.	0.093	0.	3.34e9
