@@ -24,29 +24,22 @@ upper edges of the blue shaded region in the image above.
 Citation
 --------
 
-    @ARTICLE{2018ApJ...860..103S,
-           author = {{Spilker}, Justin and {Bezanson}, Rachel and {Bari{\v{s}}i{\'c}}, Ivana and
-             {Bell}, Eric and {Lagos}, Claudia del P. and {Maseda}, Michael and
-             {Muzzin}, Adam and {Pacifici}, Camilla and {Sobral}, David and
-             {Straatman}, Caroline and {van der Wel}, Arjen and
-             {van Dokkum}, Pieter and {Weiner}, Benjamin and {Whitaker}, Katherine and
-             {Williams}, Christina C. and {Wu}, Po-Feng},
-            title = "{Molecular Gas Contents and Scaling Relations for Massive, Passive Galaxies at Intermediate Redshifts from the LEGA-C Survey}",
+    @ARTICLE{2019ApJ...883...81S,
+           author = {{Spilker}, Justin S. and {Bezanson}, Rachel and {Weiner}, Benjamin J. and
+             {Whitaker}, Katherine E. and {Williams}, Christina C.},
+            title = "{Evidence for Inside-out Galaxy Growth and Quenching of a z ̃ 2 Compact Galaxy From High-resolution Molecular Gas Imaging}",
           journal = {\apj},
-         keywords = {galaxies: evolution, galaxies: high-redshift, galaxies: ISM, Astrophysics - Astrophysics of Galaxies},
-             year = 2018,
-            month = jun,
-           volume = {860},
-           number = {2},
-              eid = {103},
-            pages = {103},
-              doi = {10.3847/1538-4357/aac438},
+         keywords = {Compact galaxies, Galaxy quenching, High-redshift galaxies, Molecular gas, Galaxy structure, Astrophysics - Astrophysics of Galaxies},
+             year = 2019,
+            month = sep,
+           volume = {883},
+           number = {1},
+              eid = {81},
+            pages = {81},
+              doi = {10.3847/1538-4357/ab3804},
     archivePrefix = {arXiv},
-           eprint = {1805.02667},
+           eprint = {1908.02294},
      primaryClass = {astro-ph.GA},
-           adsurl = {https://ui.adsabs.harvard.edu/abs/2018ApJ...860..103S},
+           adsurl = {https://ui.adsabs.harvard.edu/abs/2019ApJ...883...81S},
           adsnote = {Provided by the SAO/NASA Astrophysics Data System}
     }
-
-
-
