@@ -1,9 +1,9 @@
-Spilker et al. (2020 a & b), ApJ accepted
-=======================================
+Spilker et al. (2020 a & b), ApJ 905, 85 & 86
+=============================================
 
 ![Outflows highlights](outflows_splash.png)
 
-Questions can be directed to Justin: [jspilker@utexas.edu](mailto:jspilker@utexas.edu)
+Questions can be directed to Justin: [jspilker@tamu.edu](mailto:jspilker@tamu.edu)
 
 I'm very pleased to present the results from a lot of effort to build the first sample of
 z > 4 molecular outflows, which we present in a pair of papers. Not only is this the first
