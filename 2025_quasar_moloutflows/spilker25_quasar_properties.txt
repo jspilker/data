@@ -1,0 +1,17 @@
+# This file created by JS script make_tables.py on 2025/02/13 14:48:00 
+# This file combines Tables 2 & 3 from Spilker+25
+# Some columns below have asymmetric uncertainties; these should be read as e.g. L = LFIR +dLFIR_p -dLFIR_m
+# Values for J0439+1634 have been corrected for lensing magnification where needed (Fan+19, Yue+21)
+# Source 	z_CII 	LFIR 	dLFIR_p 	dLFIR_m 	LSF  	dLSF_p 	dLSF_m 	LAGN 	dLAGN_p 	dLAGN_m 	S119 	dS119 	rdust 	Outflow 	v50  	v84  	v98  	EW_v200 	Mdot    	dMdot_p 	dMdot_m 	Mout 	dMout_p 	dMout_m 	pdot 	dpdot_p 	dpdot_m 	Edot 	dEdot_p 	dEdot_m
+# ---    	---   	Lsun 	Lsun    	Lsun    	Lsun 	Lsun   	Lsun   	Lsun 	Lsun    	Lsun    	mJy  	mJy   	kpc   	T/F     	km/s 	km/s 	km/s 	km/s    	Msun/yr 	Msun/yr 	Msun/yr 	Msun 	Msun    	Msun    	Msun/yr*km/s 		Lsun 	Lsun    	Lsun
+J0305-3150	6.614	7.00e+12	1.86e+12	1.11e+12	7.50e+12	4.49e+12	2.50e+12	2.46e+13	1.02e+13	7.19e+12	8.83	0.07	1.32	False	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+J0439+1634	6.519	5.01e+12	1.09e+12	6.93e+11	5.41e+12	2.59e+12	1.59e+12	1.12e+13	4.62e+12	3.27e+12	7.26	0.03	0.60	True	-555	-965	-1385	63.4	469	197	199	6.02e+08	4.01e+08	3.04e+08	4.53e+05	2.87e+05	2.31e+05	3.60e+10	3.16e+10	2.10e+10	
+J0525-2406	6.539	4.67e+12	3.41e+12	1.44e+12	4.73e+12	8.13e+12	2.88e+12	1.78e+13	7.33e+12	5.19e+12	6.28	0.05	0.83	True	-340	-575	-835	62.1	449	244	236	6.33e+08	5.13e+08	3.74e+08	2.58e+05	2.00e+05	1.54e+05	1.22e+10	1.27e+10	8.02e+09	
+J2310+1855	6.003	1.52e+13	2.25e+12	1.62e+12	1.82e+13	6.31e+12	4.40e+12	8.11e+13	3.34e+13	2.37e+13	13.79	0.11	0.83	True	-460	-855	-1275	120.9	1146	322	321	1.09e+09	5.46e+08	4.14e+08	9.80e+05	4.63e+05	3.80e+05	6.90e+10	4.78e+10	3.31e+10	
+P009-10	6.004	3.56e+12	1.78e+12	9.33e+11	3.56e+12	3.91e+12	1.80e+12	5.74e+13	2.37e+13	1.68e+13	5.75	0.05	1.57	False	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+P083+11	6.340	6.04e+12	1.91e+12	1.16e+12	6.21e+12	4.35e+12	2.43e+12	3.47e+13	1.43e+13	1.01e+13	7.98	0.08	1.13	True	-415	-905	-1430	66.8	512	217	215	6.23e+08	4.18e+08	3.13e+08	4.63e+05	2.96e+05	2.35e+05	3.45e+10	3.05e+10	2.01e+10	
+P183+05	6.439	8.19e+12	1.26e+12	8.10e+11	9.67e+12	3.48e+12	2.17e+12	4.16e+13	1.71e+13	1.21e+13	9.16	0.06	0.94	True	-565	-875	-1205	54.3	500	200	199	5.27e+08	3.38e+08	2.54e+08	4.37e+05	2.67e+05	2.14e+05	3.15e+10	2.68e+10	1.78e+10	
+P231-20	6.586	4.70e+12	8.70e+11	5.87e+11	4.91e+12	1.94e+12	1.27e+12	3.08e+13	1.27e+13	9.00e+12	5.86	0.04	0.63	True	-530	-735	-950	26.1	295	183	183	2.46e+08	2.21e+08	1.65e+08	2.17e+05	1.87e+05	1.47e+05	1.31e+10	1.50e+10	9.51e+09	
+J1319+0950	6.133	7.61e+12	3.07e+12	1.58e+12	8.60e+12	8.09e+12	3.81e+12	5.11e+13	2.11e+13	1.49e+13	8.56	0.12	0.95	True	-150	-310	-510	14.4	263	189	190	7.90e+08	8.01e+08	6.02e+08	8.15e+04	7.95e+04	6.23e+04	2.08e+09	2.64e+09	1.66e+09	
+P036+03	6.540	5.13e+12	1.14e+12	7.73e+11	6.50e+12	3.63e+12	2.28e+12	6.52e+13	2.69e+13	1.91e+13	5.00	0.05	0.71	False	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	nan	
+J2054-0005	6.039	7.60e+12	9.54e+11	6.84e+11	1.13e+13	4.06e+12	2.60e+12	3.23e+13	1.33e+13	9.43e+12	5.72	0.02	0.42	True	-670	-1100	-1575	245.2	1608	415	426	5.99e+08	2.85e+08	2.21e+08	1.77e+06	7.90e+05	6.64e+05	1.60e+11	1.06e+11	7.51e+10	
